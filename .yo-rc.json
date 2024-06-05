@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.project.mqtt"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "services",
+    "packageName": "com.project.mqtt",
+    "packageFolder": "com/project/mqtt",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mariadb",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZThjMjNkYTYwZGQ1NDc0MzdhNGFmOTI3YTdkZDVjMzlkNDhiZmI2NjNhODk4NmY4NDE3MTU2MmRhMTA1ZjNhMjQ4NjQ5MzY3M2U3ZTc3MGNhNjkyNDA4NDBkODQ0ZDViMDZiMzZmZDdkOWQzMzI0NzY4OGIyZjRkNGU1NzUxM2Q=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1717307296821,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}

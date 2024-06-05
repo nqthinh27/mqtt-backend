@@ -1,0 +1,28 @@
+{
+  "fields": [
+    {
+      "fieldName": "entityId",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "scenarioId",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "payload",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "order",
+      "fieldType": "Long"
+    }
+  ],
+  "relationships": [],
+  "service": "serviceImpl",
+  "dto": "mapstruct",
+  "jpaMetamodelFiltering": false,
+  "readOnly": false,
+  "pagination": "pagination",
+  "name": "Action",
+  "changelogDate": "20210901111932"
+}
